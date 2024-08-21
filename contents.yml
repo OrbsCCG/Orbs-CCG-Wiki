@@ -1,0 +1,32 @@
+"Basics":
+  "Introduction": introduction
+  "Turn Structure": turn_structure
+  "Async Play": async_play
+  "Deckbuilding": deckbuilding
+  "Drafting": drafting
+  "Card Types": card_types
+  "Battle": battle
+
+"Strategy":
+  "Aggro": aggro
+  "Control": control
+  "Combo": combo
+
+"Rules":
+  "Minions": minions
+  "Actions": actions
+  "Objects": objects
+  "Secrets": secrets
+  "Locations": locations
+  "Glossary": glossary
+  "Open Decklist": open_decklist
+
+"Colors":
+  "Black": black
+  "Blue": blue
+  "Green": green
+  "Purple": purple
+  "Red": red
+  "Yellow": yellow
+  "Colorless": colorless
+  "Multicolor": multicolor
