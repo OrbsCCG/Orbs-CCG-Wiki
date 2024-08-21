@@ -14,4 +14,4 @@ of the Empty Vessel card to fill out your deck.
 Use the deck editor to build your deck. Click cards from your collection on top to put them into your deck on bottom.
 You can filter your collection to find the cards you want to add to your deck.
 
-![Deck editor](/wiki/other/deck_editor.png)
+![Deck editor](/wiki-assets/other/deck_editor.png)
