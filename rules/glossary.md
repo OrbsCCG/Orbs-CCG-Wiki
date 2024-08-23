@@ -11,7 +11,7 @@ on it.
 ![Meditating Monk with 2 Boost counters](/wiki-assets/cards/meditating_monk_boost_counters.png)
 
 The Meditating Monk card gets a Boost counter whenever you gain health. This lets the minion get stronger as the game
-progresses. Normally Meditating Monk is a 2/1, but with 2 Boost counters as in the above picture, it becomes a 4/3.
+progresses. Normally Meditating Monk is a 3/3, but with 2 Boost counters as in the above picture, it becomes a 5/5.
 Boost counters are represented by a number in the top right corner of the card.
 
 ## Coveted
