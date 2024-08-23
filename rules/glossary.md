@@ -113,9 +113,10 @@ Campaign Recruiter is a good example of a card that lets you search your deck to
 
 **Spark Jars** are a type of token that can be used to improve the next non-battle damage you'd deal, or an Elemental's
 power. They are created by various cards, such as Spark Prospector. The Spark
-Jar token is considered to have subtypes Elemental and Construct, and has the ability: 
-"Liquidate: add 1 to your next non-battle damage or target Elemental minion's next battle damage." The Spark Jar's
-ability is Nimble, meaning it can be used at any time.
+Jar token is considered to have subtypes Elemental and Construct, and has the abilities: 
+"Liquidate: The next time a source you control would deal non-battle damage, it deals that much damage plus 1 instead."
+and "Liquidate: Target Elemental minion you control gains +1/+0 until the next clear." Basically, it allows your cards
+and Elemental minions to deal 1 more damage than they normally would.
 
 If you want to use a Spark Jar's ability, you must do so before the damage is dealt. Once the damage is dealt, it would
 be too late to activate the ability.
