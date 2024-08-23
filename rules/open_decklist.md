@@ -33,7 +33,7 @@ And with the energy mechanic in Orbs CCG, if you draw these specialized cards an
 you can just energize them anyway, so it does not take much of a deck-building cost to include some of these in your deck.
 
 There are tradeoffs to everything, including open decklists. 
-For example, ome players like surprising their opponents with a weird deck or a secret weapon in their deck. 
+For example, some players like surprising their opponents with a weird deck or a secret weapon in their deck. 
 This is a valid concern, however if you really do have a weird deck or secret tech,
 you still will catch opponents with little to no knowledge about playing against your deck, even if they can see
 what cards are in it. Without practice, they will just have to theorize how to play against your deck, which is
