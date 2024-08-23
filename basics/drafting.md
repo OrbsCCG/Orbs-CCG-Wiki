@@ -4,9 +4,9 @@ Drafted decks are decks made up of cards that you select from a limited pool. In
 
 ## Auction Drafts
 
-Auction drafting is a variant of drafting where players bid on cards to add to their draft pool. In an auction draft, players start with 800 chips, which are the currency used to bid on cards. Booster packs are then opened one at a time, and all players see the contents of the same booster pack at once. Players place their bids simultaneously for each card. The highest bid wins, but only pays the second highest bid. If there is a tie, the winner is randomly selected from the highest bidders.
+Auction drafting is a variant of drafting where players bid on cards to add to their draft pool. In an auction draft, players start with 800 chips, which are the currency used to bid on cards. Booster packs are then opened one at a time, and all players see the contents of the same booster pack at once. Players place their bids simultaneously for each card. The highest bid wins, but only pays the second-highest bid. If there is a tie, the winner is randomly selected from the highest bidders.
 
-This form of auction drafting is known as a "Vickrey auction" and gives rise to "Vickrey's truth serum," a mathematical property that means it is always in your best interest to bid your true valuation of a card. It is impossible to try to outsmart the bids by bidding more or less than your true valuation, as you will always pay the second highest bid. So rest assured, all you have to think about is: how much is this card worth to my deck? The answer is your bid.
+This form of auction drafting is known as a "Vickrey auction" and gives rise to "Vickrey's truth serum," a mathematical property that means it is always in your best interest to bid your true valuation of a card. It is impossible to try to outsmart the bids by bidding more or less than your true valuation, as you will always pay the second-highest bid. So rest assured, all you have to think about is: how much is this card worth to my deck? The answer is your bid.
 
 Auction drafting is a bit of an experiment, and we're excited to see how it plays out. We hope you enjoy it! But if players don't like it, we will introduce a more traditional drafting format in the future.
 
@@ -20,4 +20,4 @@ After you have built your deck, you can play with it against other drafted decks
 
 ## Reward Structure
 
-Since we are in alpha, while drafting is free, there are no rewards for drafting.
+In this alpha version of the game, we're letting players draft for free with no rewards, but this will change when we get closer to the release.
