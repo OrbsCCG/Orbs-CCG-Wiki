@@ -8,7 +8,7 @@ Action cards are one of the basic card types in the game. They are one-time use 
 
 [[Execute]]
 
-Execute will destroy any target minion. It can be used at Nimble speed, so watch out!
+Execute will destroy any target minion. It can be used at [Nimble](./glossary.md#nimble) speed, so watch out!
 
 [[Gifts from Above]]
 
