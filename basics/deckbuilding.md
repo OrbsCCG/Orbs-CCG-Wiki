@@ -8,6 +8,6 @@ For constructed play, a deck must contain exactly 50 cards. For limited play, a 
 
 ## Deck Editor
 
-Use the deck editor to build your deck. Click cards from your collection on top to put them into your deck on bottom. You can filter your collection to find the cards you want to add to your deck.
+Use the deck editor to build your deck. Click cards from your collection (top part of the screen) to put them into your deck (bottom part of the screen). You can filter your collection to find the cards you want to add to your deck.
 
 ![Deck editor](/wiki-assets/other/deck_editor.png)
