@@ -60,7 +60,7 @@ If you have a Mind Goblin in play and another **Nimble** card in the hand, such 
 
 [[Nocturnal Kraken]]
 
-Note that all activated abilities have the normal timing restriction that prevents them from being invoked during an opponent's turn, during battle, or while another card or ability is on the stack. Some abilities have the **Nimble** keyword, which allows them to be used at any time. For example, Nocturnal Kraken has two abilities, the first of which can only be used with non-Nimble timing, while the second can be used at any time your have priority.
+Note that all activated abilities have the normal timing restriction that prevents them from being invoked during an opponent's turn, during battle, or while another card or ability is on the stack. Some abilities have the **Nimble** keyword, which allows them to be used at any time. For example, Nocturnal Kraken has two abilities, the first of which can only be used with non-Nimble timing, while the second can be used at any time you have priority.
 
 ## Permanent
 
@@ -92,13 +92,13 @@ Spark Jars are also Speedy, meaning they can be used the turn they are created.
 
 ## Speedy
 
-A permanent with **Speedy** can attack and use abilities that require exhausting the turn it enters play. (Normally only energizers can exhaust the turn they enter play.) For example, Agnu's Hellraisers can attack the turn it enters play.
+A permanent with **Speedy** can attack and use abilities that require exhausting the turn it enters play. (Normally, only energizers can exhaust the turn they enter play.) For example, Agnu's Hellraisers can attack the turn it enters play.
 
 [[Agnu's Hellraisers]]
 
 ## Unblockable
 
-An **Unblockable** minion cannot be blocked by an opponents' minions.
+An **Unblockable** minion cannot be blocked by an opponent's minions.
 
 [[Sneaky Knight]]
 
