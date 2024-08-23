@@ -1,7 +1,8 @@
 # Objects
 
 Objects are one of the basic card types in the game. They are permanents that are placed on the field and can have
-interesting static or activated abilities.
+interesting static or activated abilities. Note that, for all cards (even objects), abilities with "Exhaust" as a cost
+are not usable the first turn they come into play unless the card has the Speedy ability.
 
 ## Objects to Know
 
