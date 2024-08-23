@@ -24,4 +24,6 @@ In a live game, the phases go: main 1, battle, main 2, clear. This means that yo
 
 ## Async Game Phase Order
 
-In an async game, the phases go: defensive battle, clear, main, offensive battle. This means that, at the start of your turn, you have to defend against any incoming attackers. The defensive battle phase is skipped if there are no attackers. Then there is a clear phase, where all damage and temporary effects are reset back to normal. Then the main phase happens, where your permanents unexhaust and you draw a card, then get an opportunity to play cards. Finally, you can attack with your minions.
+In an async game, the phases go: defensive battle, clear, main, offensive battle. This means that, at the start of your turn, you have to defend against any incoming attackers. The defensive battle phase is skipped if there are no attackers. Then there is a clear phase, where all damage and temporary effects are reset back to normal. Then the main phase happens, where your permanents unexhaust, and you draw a card, then get an opportunity to play cards. Finally, you can attack with your minions.
+
+Compared with the Live Game Phase Order, you're only missing the second main phase, so remember to cast everything you want before combat.

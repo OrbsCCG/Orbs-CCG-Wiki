@@ -1,6 +1,6 @@
 # Async Play
 
-Asyncrhonous (async) play means playing the game without the need for both players to be online at the same time. This allows players to play the game at their own pace, taking turns when they have time to do so. This can be more convenient for players who have busy schedules or live in different time zones.
+Asynchronous (async) play means playing the game without the need for both players to be online at the same time. This allows players to play the game at their own pace, taking turns when they have time to do so. This can be more convenient for players who have busy schedules or live in different time zones.
 
 ## How it Works
 

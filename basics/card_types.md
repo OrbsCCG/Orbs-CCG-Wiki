@@ -6,7 +6,7 @@ There are six card types in Orbs CCG: Minions, Objects, Actions, Locations, Ener
 
 ## Minions
 
-Minions are the primary way to deal damage to your opponent. They are played from your hand and can attack your opponent during the battle phase. Minions can also block your opponent's minions, to prevent damage from being dealt to you. Minions have a power value, representing how much damage they deal, and a health value, representing how much damage they can take before being destroyed. Damage is cleared at the end of every Clear phase, which happens at the end of turn in live play, and after the defensive battle in async play.
+Minions are the primary way to deal damage to your opponent. They are played from your hand and can attack your opponent during the battle phase. Minions can also block your opponent's minions, to prevent damage from being dealt to you. Minions have a power value, representing how much damage they deal, and a health value, representing how much damage they can take before being destroyed. Damage is cleared at the end of every Clear phase, which happens at the end of the turn in live play, and after the defensive battle in async play.
 
 Some example minion cards include: Forest Troll, Friendly Giant, Fireblazer, Bug Breeder, Mind Goblin, and Avid Conqueror.
 
@@ -40,14 +40,13 @@ Some example location cards include: Deep Blue Sea, Enlightened Village, Active 
 
 ## Energizers
 
-Energy is a resource that is used to play cards, and it is generated primarily with Energizers. Once during your turn, you may energize a card from your hand, which means you put it into play upside down. It has no abilities other than its energy generating ability, which generates one energy of its color. However, multi-color cards generate one colorless energy, since they aren't imbued with the full energy of any of their colors.
+Energy is a resource that is used to play cards, and it is generated primarily with Energizers. Once during your turn, you may energize a card from your hand, which means you put it into play upside down. It has no abilities other than its energy generating ability, which generates one energy of its color. However, multicolor cards generate one colorless energy, since they aren't imbued with the full energy of any of their colors.
 
-Energizers are technically named "Energized [original card name]", have 0 energy value, have the colors of their original card (or colorless if they were a multi-color card). This is relevant, for example, with some Homelands (Crimson Crags, Dark Wasteland, Deep Blue Sea, Enlightened Village,
-Underground Cavern, Verdant Forest) whose abilities have conditions like "Activate only if the number of green energizers you control is at least half the number of energizers you control." What this means is you can't use the ability if you have 1 green energizer and 2 non-green energizers, since half of 3 is 1.5, and you only have 1 green energizer.
+Energizers are technically named "Energized [original card name]", have 0 energy value, have the colors of their original card (or colorless if they were a multicolor card). This is relevant, for example, with some Homelands (Crimson Crags, Dark Wasteland, Deep Blue Sea, Enlightened Village, Underground Cavern, Verdant Forest) whose abilities have conditions like "Activate only if the number of green energizers you control is at least half the number of energizers you control." What this means is you can't use the ability if you have 1 green energizer and 2 non-green energizers, since half of 3 is 1.5, and you only have 1 green energizer.
 
 ## Secrets
 
-Secrets are cards with the Secret ability allowing them to be played face down. Invoking a card as a secret costs its "To Secret" energy cost, which is just 2 total energy (although some might require specific colors). They can later be invoked for their "From Secret" cost.
+Secrets are cards with the Secret ability, allowing them to be played face down. Invoking a card as a secret costs its "To Secret" energy cost, which is just 2 total energy (although some might require specific colors). They can later be invoked for their "From Secret" cost.
 
 Some secrets might also have a timing condition that lets them get invoked for their alternative cost at other times, provided the timing condition is met. However, if they are not used immediately after the timing condition is met, then the player will have missed the timing, and they won't be able to use the alternative cost. In async play, secrets with timing conditions will be automatically invoked when the timing condition is met, allowing for some interactivity during the opponent's turn.
 
