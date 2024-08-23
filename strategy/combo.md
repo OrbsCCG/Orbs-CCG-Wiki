@@ -8,6 +8,6 @@ The original Orbs CCG game had a combo deck that aimed to cast a bunch of direct
 
 ## How is combo different from synergy?
 
-Synergy is when two cards work well together, but don't necessarily win the game on the spot. For example, Mind Goblin has synergy with Nimble cards like Tree Nuts, because Mind Goblin's triggered ability lets you draw a card when you play Tree Nuts.
+Synergy is when two cards work well together, but don't necessarily win the game on the spot. For example, Mind Goblin has synergy with [Nimble](../rules/glossary.md#nimble) cards like Tree Nuts, because Mind Goblin's triggered ability lets you draw a card when you play Tree Nuts.
 
 Combo is different because the reward for playing the cards together is so high that it should basically win the game. Drawing a card is not quite good enough of a payoff to be considered a combo, but it is considered synergy.

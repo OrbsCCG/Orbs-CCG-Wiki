@@ -6,7 +6,9 @@ Minions are one of the main card types in Orbs CCG. Minion cards represent a cha
 
 [[Agnu's Hellraisers]]
 
-Agnu's Hellraisers is a powerful minion card that can be played for 5 energy and attack the turn it comes into play (since it has the Speedy ability). If you already attacked that turn, you can instead play it for 4 energy, since it's second ability makes it cost less if you've already attacked.
+Agnu's Hellraisers is a powerful minion card that can be played for 5 energy and attack the turn it comes into play (since it has the [Speedy](./glossary.md#speedy) ability). If you already attacked that turn, you can instead play it for 4 energy, since it's second ability makes it cost less if you've already attacked.
+
+[//]: # 'something something remember in async play you don't have second main phase so you can't cast it cheaper later?'
 
 [[Gentle Dryad]]
 
@@ -14,4 +16,4 @@ Gentle Dryad is a minion card that can be played for 3 energy. While its ability
 
 [[Sola's Enforcer]]
 
-Sola's Enforcer is a minion with the Flyer ability, meaning it can only be blocked by other minions with Flyer or the Range ability. This makes it a great way to get damage through to your opponent. It also has the ability to grow larger (activate only once per turn) which can help it deal more damage. Even if you don't activate the ability, the threat of activation can make your opponent play differently, for example by not blocking.
+Sola's Enforcer is a minion with the [Flyer](./glossary.md#flyer) ability, meaning it can only be blocked by other minions with [Flyer](./glossary.md#flyer) or the [Range](./glossary.md#range) ability. This makes it a great way to get damage through to your opponent. It also has the ability to grow larger (activate only once per turn) which can help it deal more damage. Even if you don't activate the ability, the threat of activation can make your opponent play differently, for example by not blocking.

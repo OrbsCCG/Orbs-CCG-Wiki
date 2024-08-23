@@ -9,6 +9,8 @@ Multicolor cards go beyond a single color. They have more than one color in thei
 
 When energized, multicolor cards do not contain enough of a single color to generate energy of any color, so they can only generate colorless energy. This means that you will need to compliment multiccolor cards with monocolor cards in order to generate the energy you need for your multicolor deck.
 
+[//]: # 'curious why is that, maybe some kind of other things like enters tapped? if that is something possible?'
+
 ## Example Multicolor Cards
 
 [[Personal Tutor]]

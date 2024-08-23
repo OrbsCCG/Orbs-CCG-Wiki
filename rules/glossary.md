@@ -50,6 +50,8 @@ Note that colorless cards can level up into any card of the appropriate energy c
 
 Cards with **Nimble** may be invoked at any time. This means that, during live play, they may be invoked during an opponent's turn, during battle, or even while another card or ability is on the stack. For async play, while you do not manually take any game actions during an opponent's turn, your **Nimble** Secrets will auto-invoke themselves if their timing condition is met.
 
+[//]: # "remember during async can't cast nimble outside your turn? just the secrets will activate, but no casting of other cards"
+
 [[Mind Goblin]]
 
 Mind Goblin is a good example of a card with the **Nimble** keyword. It can be invoked at any time, even during your opponent's turn.
@@ -60,7 +62,7 @@ If you have a Mind Goblin in play and another **Nimble** card in the hand, such 
 
 [[Nocturnal Kraken]]
 
-Note that all activated abilities have the normal timing restriction that prevents them from being invoked during an opponent's turn, during battle, or while another card or ability is on the stack. Some abilities have the **Nimble** keyword, which allows them to be used at any time. For example, Nocturnal Kraken has two abilities, the first of which can only be used with non-Nimble timing, while the second can be used at any time your have priority.
+Note that all activated abilities have the normal timing restriction that prevents them from being invoked during an opponent's turn, during battle, or while another card or ability is on the stack. Some abilities have the **Nimble** keyword, which allows them to be used at any time. For example, Nocturnal Kraken has two abilities, the first of which can only be used with non-Nimble timing, while the second can be used at any time you have priority.
 
 ## Permanent
 
@@ -82,7 +84,7 @@ Campaign Recruiter is a good example of a card that lets you search your deck to
 
 ## Spark Jars
 
-**Spark Jars** are a type of token that can be used to improve the next non-battle damage you'd deal, or an Elemental's power. They are created by various cards, such as Spark Prospector. The Spark Jar token is considered to have subtypes Elemental and Construct, and has the ability: "Liquidate: add 1 to your next non-battle damage or target Elemental minion's next battle damage." The Spark Jar's ability is Nimble, meaning it can be used at any time.
+**Spark Jars** are a type of token that can be used to improve the next non-battle damage you'd deal, or an Elemental's power. They are created by various cards, such as Spark Prospector. The Spark Jar token is considered to have subtypes Elemental and Construct, and has the ability: "Liquidate: add 1 to your next non-battle damage or target Elemental minion's next battle damage." The Spark Jar's ability is [Nimble](#nimble), meaning it can be used at any time.
 
 If you want to use a Spark Jar's ability, you must do so before the damage is dealt. Once the damage is dealt, it would be too late to activate the ability.
 
@@ -92,13 +94,13 @@ Spark Jars are also Speedy, meaning they can be used the turn they are created.
 
 ## Speedy
 
-A permanent with **Speedy** can attack and use abilities that require exhausting the turn it enters play. (Normally only energizers can exhaust the turn they enter play.) For example, Agnu's Hellraisers can attack the turn it enters play.
+A permanent with **Speedy** can attack and use abilities that require exhausting the turn it enters play. (Normally, only energizers can exhaust the turn they enter play.) For example, Agnu's Hellraisers can attack the turn it enters play.
 
 [[Agnu's Hellraisers]]
 
 ## Unblockable
 
-An **Unblockable** minion cannot be blocked by an opponents' minions.
+An **Unblockable** minion cannot be blocked by an opponent's minions.
 
 [[Sneaky Knight]]
 

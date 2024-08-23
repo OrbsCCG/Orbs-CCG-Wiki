@@ -1,5 +1,7 @@
 # Turn Structure
 
+[//]: # 'How does the game start? how to choose who goes first?'
+
 ## Overview
 
 Each turn unfolds in a series of phases, and these phases are different depending on whether you are in an async or live game. However, both games have the same types of phases, just in different orders. Here is a summary of the different types of phases, followed by the ordering of the phases for each type of game.

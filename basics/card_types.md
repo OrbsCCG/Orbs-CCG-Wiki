@@ -1,5 +1,7 @@
 # Card Types
 
+[//]: # 'Comment on card parts'
+
 ## Overview
 
 There are six card types in Orbs CCG: Minions, Objects, Actions, Locations, Energizers, and Secrets. Each card type has different rules for how it affects the game. This document will explain the rules for each card type. While there are six card types, only four card types are present on cards: Minions, Objects, Actions, and Locations. Any type of card can become an Energizer or Secret, but those types are not present on cards.
@@ -7,6 +9,8 @@ There are six card types in Orbs CCG: Minions, Objects, Actions, Locations, Ener
 ## Minions
 
 Minions are the primary way to deal damage to your opponent. They are played from your hand and can attack your opponent during the battle phase. Minions can also block your opponent's minions, to prevent damage from being dealt to you. Minions have a power value, representing how much damage they deal, and a health value, representing how much damage they can take before being destroyed. Damage is cleared at the end of every Clear phase, which happens at the end of the turn in live play, and after the defensive battle in async play.
+
+[//]: # 'What happens when a minion or anything gets destroyed?'
 
 Some example minion cards include: Forest Troll, Friendly Giant, Fireblazer, Bug Breeder, Mind Goblin, and Avid Conqueror.
 

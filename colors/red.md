@@ -11,4 +11,4 @@ Red is the color of fire, of heat, and of passion. The devils are typically red 
 
 [[Power Surge]]
 
-Power Surge can destroy energizers. You can use this to remove your opponent's energizers, disrupting their ability to play cards with higher energy cost. Since it is Nimble, you can also use it as a trick in the middle of battle with cards that benefit from energizers leaving play like Energizing Rabbit.
+Power Surge can destroy energizers. You can use this to remove your opponent's energizers, disrupting their ability to play cards with higher energy cost. Since it is [Nimble](../rules/glossary.md#nimble), you can also use it as a trick in the middle of battle with cards that benefit from energizers leaving play like Energizing Rabbit.

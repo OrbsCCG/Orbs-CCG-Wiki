@@ -18,4 +18,4 @@ Golem Arms has an activated ability that you can use during your turn to give on
 
 The Orb of the Pack is a powerful object that gives all of your minions additional power and health based on how many other minions of their subtype you control. For example, if you have four Insect minions, they would each get +3/+3.
 
-It also has Coveted, which means if you ever take battle damage, your opponent gains control of it. You can get it back by dealing battle damage right back to them.
+It also has [Coveted](./glossary.md#coveted), which means if you ever take battle damage, your opponent gains control of it. You can get it back by dealing battle damage right back to them.
