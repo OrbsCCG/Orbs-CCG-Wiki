@@ -8,7 +8,7 @@ Some cards have abilities that are denoted by keywords. These keywords have a sp
 
 ![Meditating Monk with 2 Boost counters](/wiki-assets/cards/meditating_monk_boost_counters.png)
 
-The Meditating Monk card gets a Boost counter whenever you gain health. This lets the minion get stronger as the game progresses. Normally Meditating Monk is a 2/1, but with 2 Boost counters as in the above picture, it becomes a 4/3. Boost counters are represented by a number in the top right corner of the card.
+The Meditating Monk card gets a Boost counter whenever you gain health. This lets the minion get stronger as the game progresses. Normally Meditating Monk is a 3/3, but with 2 Boost counters as in the above picture, it becomes a 5/5. Boost counters are represented by a number in the top right corner of the card.
 
 ## Coveted
 
@@ -84,7 +84,7 @@ Campaign Recruiter is a good example of a card that lets you search your deck to
 
 ## Spark Jars
 
-**Spark Jars** are a type of token that can be used to improve the next non-battle damage you'd deal, or an Elemental's power. They are created by various cards, such as Spark Prospector. The Spark Jar token is considered to have subtypes Elemental and Construct, and has the ability: "Liquidate: add 1 to your next non-battle damage or target Elemental minion's next battle damage." The Spark Jar's ability is [Nimble](#nimble), meaning it can be used at any time.
+**Spark Jars** are a type of token that can be used to improve the next non-battle damage you'd deal, or an Elemental's power. They are created by various cards, such as Spark Prospector. The Spark Jar token is considered to have subtypes Elemental and Construct, and has the abilities: "Liquidate: The next time a source you control would deal non-battle damage, it deals that much damage plus 1 instead." and "Liquidate: Target Elemental minion you control gains +1/+0 until the next clear." Basically, it allows your cards and Elemental minions to deal 1 more damage than they normally would.
 
 If you want to use a Spark Jar's ability, you must do so before the damage is dealt. Once the damage is dealt, it would be too late to activate the ability.
 
