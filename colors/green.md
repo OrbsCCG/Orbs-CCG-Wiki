@@ -23,4 +23,4 @@ Natural Force is a green action card that can be used to destroy constructs or s
 
 [[Invigorate]]
 
-Invigorate is a green action card that gives your minion +2/+2 and Overwhelming temporarily. You can use this as a trick to save your minion from dying in battle, or to beat a blocking minion, or to push through extra damage to your opponent's life total.
+Invigorate is a green action card that gives your minion +2/+2 and [Overwhelming](../rules/glossary.md#overwhelming) temporarily. You can use this as a trick to save your minion from dying in battle, or to beat a blocking minion, or to push through extra damage to your opponent's life total.

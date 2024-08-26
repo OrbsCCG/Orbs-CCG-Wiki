@@ -1,6 +1,6 @@
 # Turn Structure
 
-[//]: # 'How does the game start? how to choose who goes first?'
+[//]: # 'How does the game start? how to choose who goes first? how many cards drawn....'
 
 ## Overview
 
@@ -14,7 +14,9 @@ At the start of the first main phase of a player's turn, their permanents all un
 
 ## Battle Phase
 
-The battle phase is when the current player can attack with their minions. The defending player can choose to block any or none of the attacking minions. If a minion is blocked, it deals damage to the blocking minions, and the blocking minions deal damage back. If a minion is not blocked, it deals damage to the defending player. In async play, there are actually two battle phases, a defensive battle phase at the start of your turn, and an offensive battle phase at the end of your turn. You can think of it as the battle phase being carried over from the end of one turn to the start of the opponent's turn.
+The battle phase is when the current player can attack with their minions. The defending player can choose to block any number of the attacking minions, or none. If a minion is blocked, it deals damage to the blocking minions, and the blocking minions deal damage back. If a minion is not blocked, it deals damage to the defending player. In async play, there are actually two battle phases, a defensive battle phase at the start of your turn, and an offensive battle phase at the end of your turn. You can think of it as the battle phase being carried over from the end of one turn to the start of the opponent's turn.
+
+[//]: # 'blocking 1 minion with multiple minions?'
 
 ## Clear Phase
 

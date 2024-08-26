@@ -2,6 +2,14 @@
 
 Some cards have abilities that are denoted by keywords. These keywords have a specific meaning and are used to make the card text shorter and more readable. The following is a list of keywords and their meanings.
 
+## Aegis
+
+[//]: # 'WIP'
+
+## Banish
+
+[//]: # 'WIP'
+
 ## Boost Counters
 
 **Boost counters** are a type of counter that can be placed on a minion. They give the minion +1/+1 for each Boost counter on it.
@@ -16,9 +24,47 @@ At the end of battle, if you were dealt battle damage and control a permanent wi
 
 [[The Orb of Destruction]]
 
+## Defensive
+
+[//]: # 'WIP'
+
+Cannot attack.
+
+## Destroy
+
+[//]: # 'WIP'
+
+## Duel
+
+[//]: # 'WIP'
+
+## Entrance
+
+[//]: # 'WIP'
+
+Occurs when this enters play.
+
+## Exhaust
+
+[//]: # 'WIP'
+
+## Fearsome
+
+[//]: # 'WIP'
+
+Can only be blocked by two or more minions at a time.
+
+## First shot
+
+[//]: # 'WIP'
+
+Minions with First shot deal battle and duel damage before other minions without First shot.
+
+[//]: # 'duel damage too?'
+
 ## Flyer
 
-A minion with the **Flyer** keyword can only be blocked by other minions with the Flyer keyword or minions with the Range keyword.
+A minion with the **Flyer** keyword can only be blocked by other minions with the [Flyer](./glossary.md#flyer) keyword or minions with the [Range](./glossary.md#range) keyword.
 
 [[Mystic Pelican]]
 
@@ -28,11 +74,22 @@ A minion with **Health Hitter** gains health for its controller when it deals da
 
 [[Magus of the Light]]
 
+## Invincible
+
+[//]: # 'WIP'
+
+[[Protector of Orbs]]
+
 ## Invoke
 
 When you **invoke** a card, you play it from your hand. The card is then put on the stack as an invocation. The card is not considered to be in play until the invocation resolves, which in live play requires both players to pass priority. In async play, just the player whose turn it is needs to pass priority. If you have the auto-pass after invoking my own cards setting enabled, you will not need to manually pass priority after invoking your own cards, since the game will do it for you.
 
 Some cards may be able to target an invocation on the stack. This is a way to interact with cards that are not yet in play. For example, Interfere can _negate_ an invocation on the stack.
+
+## Leave
+
+[//]: # 'WIP'
+[//]: # 'Or leave the field zone'
 
 ## Level Up
 
@@ -45,6 +102,24 @@ For example, Eager Apprentice, a yellow Human that costs 2 total energy, can lev
 [[Avian Lightbearer]]
 
 Note that colorless cards can level up into any card of the appropriate energy cost and subtypes, regardless of the color, since colorless is not a color.
+
+## Lethal
+
+[//]: # 'WIP'
+
+Any ammount of damage from this will destroy minions.
+
+[//]: # 'Really strange wording'
+
+[[Toxic Scarab]]
+
+## Liquidate
+
+[//]: # 'WIP'
+
+Liquidate [permanents](./glossary.md#permanent) are placed into your graveyard
+
+[//]: # 'like sacrifice? unsure if it's the best word'
 
 ## Nimble
 
@@ -64,13 +139,19 @@ If you have a Mind Goblin in play and another **Nimble** card in the hand, such 
 
 Note that all activated abilities have the normal timing restriction that prevents them from being invoked during an opponent's turn, during battle, or while another card or ability is on the stack. Some abilities have the **Nimble** keyword, which allows them to be used at any time. For example, Nocturnal Kraken has two abilities, the first of which can only be used with non-Nimble timing, while the second can be used at any time you have priority.
 
+## Overwhelming
+
+[//]: # 'WIP'
+
+Remaining battle damage follows through the player
+
 ## Permanent
 
 A **permanent** is a card that remains in play after it is invoked (invoked means it is played). Unlike action cards, it is not discarded at the end of the turn. Minions, objects, energizers, and secrets are all permanents.
 
 ## Range
 
-A minion with the **Range** keyword can block minions with the Flyer keyword.
+A minion with the **Range** keyword can block minions with the [Flyer](./glossary.md#flyer) keyword.
 
 [[Ageless Hyperion]]
 

@@ -4,7 +4,7 @@ Locations are one of the card types in the game. Like objects, location cards do
 
 [//]: # "one for both players? what if you're second player, and oponent t1 plays one? you loose the advantage? and what if you energize one?"
 
-## Homelands
+## Homeland
 
 Some locations have the Homeland subtype. This is a special subtype that allows the player going second to start with that location in play at the start of the game. This is a nice bonus for the player going second, as normally they have a disadvantage.
 
