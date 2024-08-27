@@ -36,7 +36,7 @@ Some example action cards include: Banish, Deny, Execute, Fire Rain, Invigorate,
 
 Locations are permanents that affect the game in some way while they are in play. They are similar to objects, but are not vulnerable to cards that can destroy objects. There can only be one location in play at a time, so playing a new location will replace the old one.
 
-Some locations have the Homeland subtype. The player going last in the game may start with a Homeland location of their choice in play. This gives them some compensation for going second, as otherwise the first player's tempo advantage would be quite strong such that you'd always want to go first.
+Some locations have the [Homeland](../rules/locations.md#homeland) subtype. The player going last in the game may start with a [Homeland](../rules/locations.md#homeland) location of their choice in play. This gives them some compensation for going second, as otherwise the first player's tempo advantage would be quite strong such that you'd always want to go first.
 
 Some example location cards include: Deep Blue Sea, Enlightened Village, Active Volcano, Cave of the Recluse, and Ant Colony.
 
