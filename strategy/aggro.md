@@ -4,4 +4,4 @@ Aggro decks are some of the most aggressive decks in the game. They are designed
 
 [[Dragonrider]]
 
-Dragonrider is the type of card that an aggro deck would want. It is a 1-drop minion with 3 power, which is very strong in your opening hand. It also has the ability to get the Flyer ability later in the game, if you control a dragon. This can help you get damage through to your opponent, even if they have a lot of minions on the field.
+Dragonrider is the type of card that an aggro deck would want. It is a 1-drop minion with 3 power, which is very strong in your opening hand. It also has the ability to get the [Flyer](../rules/glossary.md#flyer) ability later in the game, if you control a dragon. This can help you get damage through to your opponent, even if they have a lot of minions on the field.

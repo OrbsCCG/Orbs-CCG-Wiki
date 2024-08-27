@@ -11,7 +11,7 @@ Purple is the color of the underground, of solitude, of the Velk, and of stonewo
 
 [[Secretive Spy]]
 
-Secretive Spy is a nice way to gain cards when it attacks and is unblocked. It can also be used to filter cards out of your hand, since its activated ability will make it unblockable, at the cost of discarding a card.
+Secretive Spy is a nice way to gain cards when it attacks and is unblocked. It can also be used to filter cards out of your hand, since its activated ability will make it [unblockable](../rules/glossary.md#unblockable), at the cost of discarding a card.
 
 [[Cave of the Recluse]]
 

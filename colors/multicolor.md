@@ -19,4 +19,4 @@ Personal Tutor is a multicolor minion that requires both yellow and black to pla
 
 [[Unbound Radical]]
 
-Unbound Radical is a yellow and red minion that helps you create more Spark Jar tokens. Spark Jar tokens can be used to increase an action card's damage or an elemental card's power by 1. For more information on Spark Jar tokens, see the [Glossary](/wiki/rules/glossary).
+Unbound Radical is a yellow and red minion that helps you create more [Spark Jar](../rules/glossary.md#spark-jars) tokens. [Spark Jar](../rules/glossary.md#spark-jars) tokens can be used to increase an action card's damage or an elemental card's power by 1.

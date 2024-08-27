@@ -10,12 +10,12 @@ Additionally, some Secrets have the ability to be invoked from a Secret for a sp
 
 [[Interfere]]
 
-Interfere is an Action card that can be invoked as a Secret, then later invoked from a Secret. Its ability will negate another card on the stack, meaning that card will go to the graveyard without resolving.
+Interfere is an Action card that can be [invoked](./glossary.md#invoke) as a Secret, then later [invoked](./glossary.md#invoke) from a Secret. Its ability will negate another card on the stack, meaning that card will go to the graveyard without resolving.
 
 [//]: # 'graveyard mentioned here and a couple other places, but does not explain zones'
 
 [[Hidden Dragon]]
 
-Hidden Dragon is a Minion card that can be invoked as a Secret. Additionally, its ability makes it grow larger for each Secret you control.
+Hidden Dragon is a Minion card that can be [invoked](./glossary.md#invoke) as a Secret. Additionally, its ability makes it grow larger for each Secret you control.
 
 [//]: # 'if casted with secret, is it already on battlefield and can attack same turn? or secrets are invoked not on battlefield?'

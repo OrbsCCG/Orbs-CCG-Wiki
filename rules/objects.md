@@ -1,6 +1,6 @@
 # Objects
 
-Objects are one of the basic card types in the game. They are permanents that are placed on the field and can have interesting static or activated abilities. Note that, for all cards (even objects), abilities with "Exhaust" as a cost are not usable the first turn they come into play unless the card has the Speedy ability.
+Objects are one of the basic card types in the game. They are permanents that are placed on the field and can have interesting static or activated abilities. Note that, for all cards (even objects), abilities with "Exhaust" as a cost are not usable the first turn they come into play unless the card has the [Speedy](./glossary.md#speedy) keyword.
 
 ## Objects to Know
 
@@ -8,7 +8,7 @@ Here are some objects that illustrate how object cards work.
 
 [[Capturing Mirror]]
 
-Capturing Mirror can banish an opponent's minion when it comes into play. This can be a useful removal tool, but if you lose the Capturing Mirror, your opponent will get their minion back.
+Capturing Mirror can [banish](./glossary.md#banish) an opponent's minion when it comes into play. This can be a useful removal tool, but if you lose the Capturing Mirror, your opponent will get their minion back.
 
 [[Golem Arms]]
 

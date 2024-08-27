@@ -16,4 +16,4 @@ Gifts from Above draws two cards. That's it. It's a simple card, but don't under
 
 [[Sun God's Wrath]]
 
-Sun God's Wrath is a powerful action card that destroys all minions in play. This can be a great way to clear the board if you're behind.
+Sun God's Wrath is a powerful action card that [destroys](./glossary.md#destroy) all minions in play. This can be a great way to clear the board if you're behind.

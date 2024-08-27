@@ -12,7 +12,7 @@ Agnu's Hellraisers is a powerful minion card that can be played for 5 energy and
 
 [[Gentle Dryad]]
 
-Gentle Dryad is a minion card that can be played for 3 energy. While its ability to return an energizer to your hand looks like a downside, it's optional, so you don't have to do it. However, there are many times you will want to return an energizer to your hand. For example, if you have Energizing Rabbit, then returning an energizer to your hand might be a good way to make your minion larger. Further, if it's the late game, and you want one of your energizer cards back so you can play it again, then you can return it to your hand.
+Gentle Dryad is a minion card that can be played for 3 energy. While its ability to return an [energizer](../basics/card_types.md#energizers) to your hand looks like a downside, it's optional, so you don't have to do it. However, there are many times you will want to return an energizer to your hand. For example, if you have Energizing Rabbit, then returning an energizer to your hand might be a good way to make your minion larger. Further, if it's the late game, and you want one of your energizer cards back so you can play it again, then you can return it to your hand.
 
 [[Sola's Enforcer]]
 

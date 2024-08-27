@@ -19,7 +19,7 @@ The Orb of the Pack is a card that could work well with Insect token makers like
 
 [[Natural Force]]
 
-Natural Force is a green action card that can be used to destroy constructs or secrets. If you are playing against a deck that doesn't have constructs or secrets, you can energize it instead.
+Natural Force is a green action card that can be used to [destroy](../rules/glossary.md#destroy) constructs or [secrets](../rules/secrets.md). If you are playing against a deck that doesn't have constructs or secrets, you can energize it instead.
 
 [[Invigorate]]
 
