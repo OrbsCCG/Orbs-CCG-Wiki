@@ -4,11 +4,15 @@ Some cards have abilities that are denoted by keywords. These keywords have a sp
 
 ## Aegis
 
-[//]: # 'WIP'
+Targeting permanents with Aegis by anyone other than its controller costs that much additional energy. This only applies to invoked cards and activated abilities for now, although that may change in the future to also apply to targeted triggered abilities.
 
-## Banish
+## Banished Zone
 
-[//]: # 'WIP'
+To banish a card from the field, place it in a special zone called the banished zone. Cards in the banished zone cannot be interacted with any longer. Banishing does not count as dying.
+
+[[Banish]]
+
+You may want to banish a card to get around abilities that trigger when a card dies, or abilities like indestructible.
 
 ## Boost Counters
 
@@ -24,17 +28,31 @@ At the end of battle, if you were dealt battle damage and control a permanent wi
 
 [[The Orb of Destruction]]
 
+## Deathknell
+
+Deathknell abilities occur when the card is destroyed in some way. They do not occur if the card is banished or otherwise removed from play without being destroyed.
+
+[[Fireblazer]]
+
+Fireblazer will deal 1 damage to any target when it dies because of its Deathknell ability.
+
 ## Defensive
 
-[//]: # 'WIP'
+A minion with Defensive cannot attack as normal.
 
-Cannot attack.
+[[Cavern Barrier]]
+
+Cavern Barrier is a good defensive minion. It will block for you, but it can't attack.
 
 ## Destroy
 
-[//]: # 'WIP'
+Destroyed permanents are placed into the graveyard. If they have a Deathknell ability, that ability will trigger.
 
-## Duel
+[[Execute]]
+
+Execute will destroy any minion, regardless of how much health it has.
+
+## Dueling
 
 [//]: # 'WIP'
 
@@ -46,21 +64,27 @@ Occurs when this enters play.
 
 ## Exhaust
 
-[//]: # 'WIP'
+Cards become exhausted when they attack or use an ability that requires exhausting. Exhausted cards cannot attack or use abilities that require exhausting since they are already exhausted. Cards cannot attack or use abilities that require exhausting the first turn they enter play unless they have the Speedy keyword. Cards automatically unexhaust at the start of your first main phase each turn.
+
+[[The Orb of the Sun]]
+
+The Orb of the Sun will exhaust in order to generate energy. This means you can only use it once per turn (unless you have a way to unexhaust it).
 
 ## Fearsome
 
-[//]: # 'WIP'
+Minions with Fearsome can only be blocked by two or more minions at a time.
 
-Can only be blocked by two or more minions at a time.
+[[Zombie Horde]]
 
-## First shot
+It'll take more than one minion to block the Zombie Horde!
 
-[//]: # 'WIP'
+## First Shot
 
-Minions with First shot deal battle and duel damage before other minions without First shot.
+Minions with First Shot deal battle and duel damage before other minions without First Shot.
 
-[//]: # 'duel damage too?'
+[[Nexi Trebuchet Team]]
+
+Nexi Trebuchet Team is a good example of a card with the **First Shot** keyword, but only when it is attacking. This means that it will deal its battle damage before other minions without **First Shot**.
 
 ## Flyer
 
@@ -76,9 +100,11 @@ A minion with **Health Hitter** gains health for its controller when it deals da
 
 ## Invincible
 
-[//]: # 'WIP'
+A minion with the **Invincible** keyword cannot be destroyed by damage or "destroy" abilities as normal.
 
 [[Protector of Orbs]]
+
+Protector of Orbs will give a Construct the Invincible keyword temporarily, preventing that other Construct from being destroyed.
 
 ## Invoke
 
@@ -86,10 +112,13 @@ When you **invoke** a card, you play it from your hand. The card is then put on 
 
 Some cards may be able to target an invocation on the stack. This is a way to interact with cards that are not yet in play. For example, Interfere can _negate_ an invocation on the stack.
 
-## Leave
+## Leaves the Field
 
-[//]: # 'WIP'
-[//]: # 'Or leave the field zone'
+Some cards have abilities that trigger when they "Leave the field," which means it triggers if they die, are banished, are returned to your hand, or anything else that would cause them to leave the field.
+
+[[Intrepid Adventurer]]
+
+Intrepid Adventurer draws you a card when it leaves the field. This is most likely to happen when it dies. It's also a great target for levelling up, since the original card is banished when you level it up.
 
 ## Level Up
 
@@ -105,27 +134,25 @@ Note that colorless cards can level up into any card of the appropriate energy c
 
 ## Lethal
 
-[//]: # 'WIP'
-
-Any ammount of damage from this will destroy minions.
-
-[//]: # 'Really strange wording'
+Any amount of damage from minions with Lethal is sufficient to destroy another minion.
 
 [[Toxic Scarab]]
 
+For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword.
+
 ## Liquidate
 
-[//]: # 'WIP'
+Liquidated [permanents](./glossary.md#permanent) are placed into the graveyard.
 
-Liquidate [permanents](./glossary.md#permanent) are placed into your graveyard
+[[Devoured by Sharks]]
 
-[//]: # 'like sacrifice? unsure if it's the best word'
+Devoured by Sharks is a good example of a card with the **Liquidate** keyword. It forces your opponent to put two of their permanents from the field into their graveyard.
 
 ## Nimble
 
 Cards with **Nimble** may be invoked at any time. This means that, during live play, they may be invoked during an opponent's turn, during battle, or even while another card or ability is on the stack. For async play, while you do not manually take any game actions during an opponent's turn, your **Nimble** Secrets will auto-invoke themselves if their timing condition is met.
 
-[//]: # "remember during async can't cast nimble outside your turn? just the secrets will activate, but no casting of other cards"
+Remember that async play does not allow you to cast other cards during your opponent's turn, however in async play, some Nimble secrets can activate on their own.
 
 [[Mind Goblin]]
 
