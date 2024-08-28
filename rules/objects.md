@@ -8,7 +8,7 @@ Here are some objects that illustrate how object cards work.
 
 [[Capturing Mirror]]
 
-Capturing Mirror can [banish](./glossary.md#banish) an opponent's minion when it comes into play. This can be a useful removal tool, but if you lose the Capturing Mirror, your opponent will get their minion back.
+Capturing Mirror can [banish](./glossary.md#banished-zone) an opponent's minion when it comes into play. This can be a useful removal tool, but if you lose the Capturing Mirror, your opponent will get their minion back.
 
 [[Golem Arms]]
 
