@@ -1,40 +1,11 @@
 # Open Decklist
 
-Orbs CCG is an open decklist game, meaning that players have information about their opponent's deck before the game 
-even starts. This allows players to make strategic decisions based on the cards in their opponent's deck.
+Orbs CCG is an open decklist game, meaning that players have information about their opponent's deck before the game even starts. This allows players to make strategic decisions based on the cards in their opponent's deck.
 
-Open decklists have a number of benefits. It allows players to strategize against their opponent's deck ahead of time,
-making the game more interesting. It encourages including one-ofs that you otherwise wouldn't play, because the existence
-of these cards in your deck might cause your opponent to play around them, or at least consider doing so.
-It eliminates a class of unfun events, like losing a limited game to a surprise rare or
-board sweeper you wouldn't have normally played around. It also helps players learn and improve by seeing what other
-decks are playing, and figuring out new decks they might want to play themselves in future games. Finally, tournaments
-are often open decklist, so this makes the game more consistent with tournament play.
+Open decklists have a number of benefits. It allows players to strategize against their opponent's deck ahead of time, making the game more interesting. It encourages including one-offs that you otherwise wouldn't play, because the existence of these cards in your deck might cause your opponent to play around them, or at least consider doing so. It eliminates a class of unfun events, like losing a limited game to a surprise rare or board sweeper you wouldn't have normally played around. It also helps players learn and improve by seeing what other decks are playing, and figuring out new decks they might want to play themselves in future games. Finally, tournaments are often open decklist, so this makes the game more consistent with tournament play.
 
-Sometimes it can be fun to surprise an opponent with a card they didn't expect, however, this is
-also a downside because it can be unfun to lose to a card you didn't expect. In limited Magic and Hearthstone, you'll
-occasionally lose to a rare board sweeper that invalidates all the play that came before, but in Orbs CCG you can see if
-your opponent even has one in their deck. This lets you play around it if you can afford to do so.
+Sometimes it can be fun to surprise an opponent with a card they didn't expect, however, this is also a downside because it can be unfun to lose to a card you didn't expect. In limited Magic and Hearthstone, you'll occasionally lose to a rare board sweeper that invalidates all the play that came before, but in Orbs CCG you can see if your opponent even has one in their deck. This lets you play around it if you can afford to do so.
 
-In other card games with closed decklists, in theory, you might consider playing around any card in the limited format. 
-However, in practice, you often won't bother playing around rares (your opponent is unlikely to have them) or even weaker common cards
-that aren't used very often. Some of these cards aren't necessarily weak, just specialized, useful in certain situations but not others.
-In other card games, you often don't bother to play around these cards because the probability that your
-opponent drafted that particular card, put it in their deck, and has it in their hand, is just too low to make it worthwhile.
-However, in Orbs CCG, you can include specialized or weaker one-ofs in your deck that you
-wouldn't normally play, because now your opponent actually knows you have those cards, and will have to consider
-playing around them. As an example calculation, if you have one of
-the cards in your deck, you have a 17.5% chance of drawing it in your opening hand, whereas without open decklists,
-your opponent might mentally consider the chance you even have the card in your deck at perhaps 2% or less, meaning you'd
-have a 0.35% chance of having it in your opening hand. This is a huge difference!
-Knowing that you might actually have the card gives that card more influence than if it's just hypothetically in
-your deck with low probability.
-And with the energy mechanic in Orbs CCG, if you draw these specialized cards and don't want to play them,
-you can just energize them anyway, so it does not take much of a deck-building cost to include some of these in your deck.
+In other card games with closed decklists, in theory, you might consider playing around any card in the limited format. However, in practice, you often won't bother playing around rares (your opponent is unlikely to have them) or even weaker common cards that aren't used very often. Some of these cards aren't necessarily weak, just specialized, useful in certain situations but not others. In other card games, you often don't bother to play around these cards because the probability that your opponent drafted that particular card, put it in their deck, and has it in their hand, is just too low to make it worthwhile. However, in Orbs CCG, you can include specialized or weaker one-offs in your deck that you wouldn't normally play, because now your opponent actually knows you have those cards, and will have to consider playing around them. As an example calculation, if you have one of the cards in your deck, you have a 17.5% chance of drawing it in your opening hand, whereas without open decklists, your opponent might mentally consider the chance you even have the card in your deck at perhaps 2% or less, meaning you'd have a 0.35% chance of having it in your opening hand. This is a huge difference! Knowing that you might actually have the card gives that card more influence than if it's just hypothetically in your deck with low probability. And with the energy mechanic in Orbs CCG, if you draw these specialized cards and don't want to play them, you can just energize them anyway, so it does not take much of a deck-building cost to include some of these in your deck.
 
-There are tradeoffs to everything, including open decklists. 
-For example, some players like surprising their opponents with a weird deck or a secret weapon in their deck. 
-This is a valid concern, however if you really do have a weird deck or secret tech,
-you still will catch opponents with little to no knowledge about playing against your deck, even if they can see
-what cards are in it. Without practice, they will just have to theorize how to play against your deck, which is
-not quite as good as having the actual experience.
+There are tradeoffs to everything, including open decklists. For example, some players like surprising their opponents with a weird deck or a secret weapon in their deck. This is a valid concern, however if you really do have a weird deck or secret tech, you still will catch opponents with little to no knowledge about playing against your deck, even if they can see what cards are in it. Without practice, they will just have to theorize how to play against your deck, which is not quite as good as having the actual experience.
