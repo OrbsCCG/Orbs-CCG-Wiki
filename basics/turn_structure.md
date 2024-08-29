@@ -6,7 +6,9 @@ Each turn unfolds in a series of phases, and these phases are different dependin
 
 ## Pregame
 
-While not technically part of the turn, before a game begins, there is a "pregame." One player is randomly chosen to decide whether to play first or second. The player who goes first does not draw a card on their first turn. This is to balance the tempo advantage of going first. Further, the player going second gets to start with their choice of [Homeland](../rules/locations.md#homeland) location from their deck in play.
+While not technically part of the turn, before a game begins, there is a "pregame". One player is randomly chosen to decide whether to play first or second. The player who goes first does not draw a card on their first turn. This is to balance the tempo advantage of going first. Further, the player going second gets to start with their choice of [Homeland](../rules/locations.md#homeland) location from their deck in play.
+
+[//]: # 'player 1 starts with 7 cards and player 2 with 8?'
 
 ## Main Phase
 

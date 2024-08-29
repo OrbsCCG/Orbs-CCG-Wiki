@@ -140,6 +140,8 @@ Any amount of damage from minions with Lethal is sufficient to destroy another m
 
 For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword.
 
+[//]: # 'will need to explain how to assign damage if minion has for example 2 power, if it works like deathtouch in mtg'
+
 ## Liquidate
 
 Liquidated [permanents](./glossary.md#permanent) are placed into the graveyard.
