@@ -6,9 +6,7 @@ Minions are one of the main card types in Orbs CCG. Minion cards represent a cha
 
 [[Agnu's Hellraisers]]
 
-Agnu's Hellraisers is a powerful minion card that can be played for 5 energy and attack the turn it comes into play (since it has the [Speedy](./glossary.md#speedy) ability). If you already attacked that turn, you can instead play it for 4 energy, since it's second ability makes it cost less if you've already attacked.
-
-[//]: # 'something something remember in async play you don't have second main phase so you can't cast it cheaper later?'
+Agnu's Hellraisers is a powerful minion card that can be played for 5 energy and attack the turn it comes into play (since it has the [Speedy](./glossary.md#speedy) ability). If you already attacked that turn, you can instead play it for 4 energy, since its second ability makes it cost less if you've already attacked. Remember in async play you won't have a second main phase, so you will have to cast it during battle after attacking (if you want the attacking discount).
 
 [[Gentle Dryad]]
 

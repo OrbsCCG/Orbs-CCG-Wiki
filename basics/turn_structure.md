@@ -1,14 +1,16 @@
 # Turn Structure
 
-[//]: # 'How does the game start? how to choose who goes first? how many cards drawn....'
-
 ## Overview
 
 Each turn unfolds in a series of phases, and these phases are different depending on whether you are in an async or live game. However, both games have the same types of phases, just in different orders. Here is a summary of the different types of phases, followed by the ordering of the phases for each type of game.
 
+## Pregame
+
+While not technically part of the turn, before a game begins, there is a "pregame." One player is randomly chosen to decide whether to play first or second. The player who goes first does not draw a card on their first turn. This is to balance the tempo advantage of going first. Further, the player going second gets to start with their choice of [Homeland](../rules/locations.md#homeland) location from their deck in play.
+
 ## Main Phase
 
-The main phase is when the current player (the player whose turn it is) can invoke cards from their hand, attack with minions, and play objects and secrets. The main phase is where the player develops their board.
+The main phase is when the current player (the player whose turn it is) can invoke cards from their hand, energize one card per turn, and play objects and secrets. The main phase is generally where the player develops their board.
 
 At the start of the first main phase of a player's turn, their permanents all unexhaust, and they draw a card. This happens automatically.
 
@@ -16,7 +18,7 @@ At the start of the first main phase of a player's turn, their permanents all un
 
 The battle phase is when the current player can attack with their minions. The defending player can choose to block any number of the attacking minions, or none. If a minion is blocked, it deals damage to the blocking minions, and the blocking minions deal damage back. If a minion is not blocked, it deals damage to the defending player. In async play, there are actually two battle phases, a defensive battle phase at the start of your turn, and an offensive battle phase at the end of your turn. You can think of it as the battle phase being carried over from the end of one turn to the start of the opponent's turn.
 
-[//]: # 'blocking 1 minion with multiple minions?'
+An attacking minion can be blocked by more than one minion at a time. If a minion is blocked by multiple minions, it distributes its damage among each of them, and each of them deals damage back. In live play, the attacking player can choose how to distribute damage, however in async play the game will automatically distribute damage for the player.
 
 ## Clear Phase
 

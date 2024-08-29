@@ -7,4 +7,4 @@ Colorless is the color of neutrality. It can do many things, but is not speciali
 
 ![Curious Columns](https://s3.amazonaws.com/assets1.orbsccg.com/prod/cards/art/26X.jpg)
 
-[//]: # 'if energized, what kind of energy does it give? colorless? might be worth saying since it does not have color'
+Colorless cards, when energized, produce colorless energy. This energy can be used to pay for just generic costs, but not colored costs.

@@ -8,9 +8,9 @@ There are six card types in Orbs CCG: Minions, Objects, Actions, Locations, Ener
 
 ## Minions
 
-Minions are the primary way to deal damage to your opponent. They are played from your hand and can attack your opponent during the battle phase. Minions can also block your opponent's minions, to prevent damage from being dealt to you. Minions have a power value, representing how much damage they deal, and a health value, representing how much damage they can take before being destroyed. Damage is cleared at the end of every Clear phase, which happens at the end of the turn in live play, and after the defensive battle in async play.
+Minions are the primary way to deal damage to your opponent. They are played from your hand and can attack your opponent during the battle phase. Minions can also block your opponent's minions, to prevent damage from being dealt to you. Minions have a power value, representing how much damage they deal, and a health value, representing how much damage they can take before being destroyed. Damage is cleared at the end of every clear phase, which happens at the end of the turn in live play, and after the defensive battle in async play.
 
-[//]: # 'What happens when a minion or anything gets destroyed?'
+Minions can have abilities that affect the game in some way. Some abilities are triggered abilities, which activate when a certain condition is met. Other abilities are static abilities, which are always active. Minions can also have keywords, which are abilities that are common to many cards. For example, a minion with the Speedy keyword can attack or exhaust the turn it enters play. Finally, some minions have Entrance or Deathknell abilities, which are triggered abilities that trigger when the minion enters or dies.
 
 Some example minion cards include: Forest Troll, Friendly Giant, Fireblazer, Bug Breeder, Mind Goblin, and Avid Conqueror.
 

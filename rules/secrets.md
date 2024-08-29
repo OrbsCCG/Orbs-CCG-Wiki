@@ -4,8 +4,6 @@ Secrets are one of the card types in the game. Cards with the Secret ability can
 
 Additionally, some Secrets have the ability to be invoked from a Secret for an alternate cost when a timing condition is met. During asynchronous play, these Secrets will automatically be invoked when this timing condition is met, even during an opponent's turn. This lets you set up traps for your opponent to walk into, even though you can't personally take game actions during an opponent's turn in async play.
 
-[//]: # 'Is trap the correct terminology?'
-
 ## Secrets to Know
 
 [[Interfere]]
