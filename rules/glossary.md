@@ -6,6 +6,10 @@ Some cards have abilities that are denoted by keywords. These keywords have a sp
 
 Targeting permanents with Aegis by anyone other than its controller costs that much additional energy. This only applies to invoked cards and activated abilities for now, although that may change in the future to also apply to targeted triggered abilities.
 
+[[Velken Engineer]]
+
+Velken Engineer is an example of a card with Aegis. If an oponent wanted to use a spell to kill this creature, like Flame Spike, they would have to pay 1 extra energy in this case.
+
 ## Banished Zone
 
 To banish a card from the field, place it in a special zone called the banished zone. Cards in the banished zone cannot be interacted with any longer. Banishing does not count as dying.
@@ -60,7 +64,11 @@ Execute will destroy any minion, regardless of how much health it has.
 
 [//]: # 'WIP'
 
-Occurs when this enters play.
+Entrance is a keyword that triggers an ability when a permanent enters the field.
+
+[[Abyssal Spirit]]
+
+In this case, when this minion enters the field, your opponent loses health based on the ammount of black minions you control, bringing them closer to death.
 
 ## Exhaust
 
@@ -138,7 +146,9 @@ Any amount of damage from minions with Lethal is sufficient to destroy another m
 
 [[Toxic Scarab]]
 
-For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword.
+For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword. 
+
+Toxic Scarab only has 1 power, but if an attacking minion 2 or more power and Lethal is blocked by 2 defending minions, it can kill them both by dealing at least 1 damage to each defender.
 
 ## Liquidate
 
@@ -168,9 +178,7 @@ Note that all activated abilities have the normal timing restriction that preven
 
 ## Overwhelming
 
-[//]: # 'WIP'
-
-Remaining battle damage follows through the player
+An attacking minion with Overwhelming deals extra battle damage to the defending player. The extra battle damage is any battle damage in excess of that needed to kill any defending minions.
 
 ## Permanent
 
@@ -210,18 +218,20 @@ A permanent with **Speedy** can attack and use abilities that require exhausting
 
 An **Unblockable** minion cannot be blocked by an opponent's minions.
 
-[[Sneaky Knight]]
+[[Secretive Spy]]
 
-While **Unblockable** is different from not being able to block yourself, Sneaky Knight has both.
+With this minion, you can give it unblockable for the price of a card, making it easier for you to draw the card back when dealing combat damage with Secretive Spy.
 
 ## Unique
 
 Cards with the **Unique** keyword cannot be invoked if you already control another card with the same name. You can still energize the card, however. **Unique** cards represent one-of-a-kind characters or items, typically with a unique name.
 
-[[The Mother Tree]]
+[[The Orb Of The Pack]]
+
+[//]: # 'What happens if oponent steals an orb like this one, I play another one and then steal the first one after dealing combat damage with the coveted ability? Do I keep to play both? can this happen then with more?'
 
 ## Unlimited
 
-A deck may contain any number of cards with the **Unlimited** keyword.
+A deck may contain any number of cards with the **Unlimited** keyword. This means that the rule of 5 times this card in the deck is not
 
 [[Go To Hell]]
