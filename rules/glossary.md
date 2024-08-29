@@ -146,9 +146,9 @@ Any amount of damage from minions with Lethal is sufficient to destroy another m
 
 [[Toxic Scarab]]
 
-For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword.
+For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword. 
 
-[//]: # 'will need to explain how to assign damage if minion has for example 2 power, if it works like deathtouch in mtg'
+Toxic Scarab only has 1 power, but if an attacking minion 2 or more power and Lethal is blocked by 2 defending minions, it can kill them both by dealing at least 1 damage to each defender.
 
 ## Liquidate
 
@@ -178,9 +178,7 @@ Note that all activated abilities have the normal timing restriction that preven
 
 ## Overwhelming
 
-[//]: # 'WIP'
-
-Remaining battle damage follows through the player
+An attacking minion with Overwhelming deals extra battle damage to the defending player. The extra battle damage is any battle damage in excess of that needed to kill any defending minions.
 
 ## Permanent
 
