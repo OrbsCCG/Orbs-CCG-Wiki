@@ -148,7 +148,7 @@ Any amount of damage from minions with Lethal is sufficient to destroy another m
 
 For example, Toxic Scarab only has 1 power, but it can destroy any minion it damages, no matter how much health that minion has, because it has the Lethal keyword. 
 
-Toxic Scarab only has 1 power, but if an attacking minion 2 or more power and Lethal is blocked by 2 defending minions, it can kill them both by dealing at least 1 damage to each defender.
+If an attacking minion 2 or more power and Lethal is blocked by 2 defending minions, it can kill them both by dealing at least 1 damage to each defender.
 
 ## Liquidate
 
@@ -228,7 +228,7 @@ Cards with the **Unique** keyword cannot be invoked if you already control anoth
 
 [[The Orb Of The Pack]]
 
-[//]: # 'What happens if oponent steals an orb like this one, I play another one and then steal the first one after dealing combat damage with the coveted ability? Do I keep to play both? can this happen then with more?'
+It is possible, for the time being, for a player to have more than one card with Unique on the field at a time. For example, this could happen if a player plays The Orb of the Pack, then their opponent steals it with Coveted, then the original player plays a second one from hand, then finally steals the first one back. Now they have two in play. This is a rare situation, but it is possible. In the future, we may change the rules around this.
 
 ## Unlimited
 
