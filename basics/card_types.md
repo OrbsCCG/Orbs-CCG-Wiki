@@ -1,7 +1,5 @@
 # Card Types
 
-[//]: # 'Comment on card parts'
-
 ## Overview
 
 There are six card types in Orbs CCG: Minions, Objects, Actions, Locations, Energizers, and Secrets. Each card type has different rules for how it affects the game. This document will explain the rules for each card type. While there are six card types, only four card types are present on cards: Minions, Objects, Actions, and Locations. Any type of card can become an Energizer or Secret, but those types are not present on cards.

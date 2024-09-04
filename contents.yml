@@ -6,11 +6,7 @@
   "Drafting": drafting
   "Card Types": card_types
   "Battle": battle
-
-"Strategy":
-  "Aggro": aggro
-  "Control": control
-  "Combo": combo
+  "Activated Abilities": activated_abilities
 
 "Rules":
   "Minions": minions
@@ -20,6 +16,11 @@
   "Locations": locations
   "Glossary": glossary
   "Open Decklist": open_decklist
+
+"Strategy":
+  "Aggro": aggro
+  "Control": control
+  "Combo": combo
 
 "Colors":
   "Black": black
