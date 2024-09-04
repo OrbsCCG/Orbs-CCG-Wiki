@@ -10,7 +10,7 @@ For example, Animated Sword has the text: "{2C}, Exhaust: Target minion you cont
 
 ## When can I use activated abilities?
 
-By default, activated abilities are not [Nimble](./glossary.md#nimble), meaning they can only be used when you could invoke a minion. Non-Nimble abilities can only be used during your main phase, when the stack is empty, and you have priority. However, some activated abilities are [Nimble](./glossary.md#nimble) and can be used at any time you have priority. Also note that the card must be in play and you must be able to pay its cost to use its activated ability.
+By default, activated abilities are not [Nimble](../rules/glossary.md#nimble), meaning they can only be used when you could invoke a minion. Non-Nimble abilities can only be used during your main phase, when the stack is empty, and you have priority. However, some activated abilities are [Nimble](../rules/glossary.md#nimble) and can be used at any time you have priority. Also note that the card must be in play and you must be able to pay its cost to use its activated ability.
 
 There are some exceptions to this rule, such as abilities that say "This ability is Nimble." Those can be used at any time you have priority.
 
@@ -20,7 +20,7 @@ Hungry Ghoul's ability is an example of a Nimble ability. It can be activated at
 
 [[Stitched Ghoul]]
 
-Stitched Ghoul is one of the few examples of a card whose abilities can be activated from a zone other than the field, in this case, from your hand. You know this because it says "Discard this card" as part of the cost, and cards can only be discarded from your hand. Also note its first ability is [Nimble](./glossary.md#nimble).
+Stitched Ghoul is one of the few examples of a card whose abilities can be activated from a zone other than the field, in this case, from your hand. You know this because it says "Discard this card" as part of the cost, and cards can only be discarded from your hand. Also note its first ability is [Nimble](../rules/glossary.md#nimble).
 
 ## How can I use activated abilities?
 
