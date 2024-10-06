@@ -2,9 +2,7 @@
 
 Drafted decks are decks made up of cards that you select from a limited pool. In drafting, you are presented with a series of booster packs, each containing 15 cards. You select a card you want, take it, and add it to your collection, then pass the booster pack onward. At the end of the draft, you can use the cards in your draft pool to build a deck. Drafting is a great way to test your card evaluation and deck building skills.
 
-## Not Yet Implemented
-
-Pick drafting, the standard form of drafting where you pick one card at a time, is not yet implemented. Auction drafting (see below) is available as a special event, but will be replaced with pick drafting in the near future.
+![Pick drafts](/wiki-assets/other/pick_draft.png)
 
 ## Building Your Draft Deck
 
