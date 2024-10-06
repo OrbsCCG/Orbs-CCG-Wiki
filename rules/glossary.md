@@ -190,6 +190,19 @@ A minion with the **Range** keyword can block minions with the [Flyer](./glossar
 
 [[Ageless Hyperion]]
 
+## Recycle
+
+A card is **recycled** by putting it from the graveyard onto the bottom of its owner's deck. This is a way to get cards 
+back into your deck to draw them again, so that you don't run out of cards to draw if the game goes long.
+
+[[Saprobic Fungi]]
+
+Saprobic Fungi can recycle your cards as well as an opponent's cards. Why might you want to recycle an opponent's cards? In case their deck has a graveyard strategy and you want to get rid of cards in their graveyard.
+
+[[Orphaned Girl]]
+
+Black decks have a tendency to put a lot of cards into the graveyard for later use. This can be a problem if you're running out of cards in your deck. Orphaned Girl can help recycle your graveyard cards back into your deck so that you don't run out of cards to draw.
+
 ## Search Your Deck
 
 When a card instructs you to search your deck for a card, you may look through your deck and take the card you want. After searching your deck, you always shuffle it. You may choose not to find a card if you wish.
