@@ -4,7 +4,7 @@ Orbs CCG is a collectible card game where players bring their own pre-built deck
 
 ## Deck Size
 
-For constructed play, a deck must contain exactly 50 cards. For limited play, a deck must contain exactly 40 cards. If you are playing with a limited card pool, and have fewer than 40 cards available, you will be provided with 40 copies of the Empty Vessel card to fill out your deck.
+For constructed play, a deck must contain exactly 50 cards. For limited play, a deck must contain exactly 30 cards. If you are playing with a limited card pool, and have fewer than 30 cards available, you will need to add extra copies of the Empty Vessel card to fill out your deck.
 
 ## Deck Editor
 

@@ -6,11 +6,15 @@ Drafted decks are decks made up of cards that you select from a limited pool. In
 
 ## Building Your Draft Deck
 
-After the draft is over, you will be able to build a deck from the cards in your draft pool. You will need to build a deck with exactly 40 cards. If you did not draft enough cards, you can fill up your deck with Empty Vessel cards, which will be provided to you in the deck editor.
+After the draft is over, you will be able to build a deck from the cards in your draft pool. You will need to build a deck with exactly 30 cards. If you did not draft enough cards, you can fill up your deck with Empty Vessel cards, which will be provided to you in the deck editor.
 
 ## Playing With Your Draft Deck
 
 After you have built your deck, you can play with it against other drafted decks. You can play up to 8 games with your draft deck. After you have played 8 games, your draft deck will be retired.
+
+## Running Low on Cards in Your Deck
+
+Some strategies may run low on cards in their deck. If you run out of cards in your deck, you will lose the game. To help alleviate this, you can use the "Recycle" mechanic to put cards from your graveyard back onto your deck. Be sure to look out for cards like Orphaned Girl, Saprobic Fungi, or Junkrat that can help you recycle your deck.
 
 ## Reward Structure
 
