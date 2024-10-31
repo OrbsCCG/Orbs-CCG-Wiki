@@ -58,17 +58,18 @@ Execute will destroy any minion, regardless of how much health it has.
 
 ## Dueling
 
-[//]: # 'WIP'
+Dueling minions deal damage to each other simultaneously, unless only one of them has [First Shot], in which case it 
+will deal its damage first.
+
+[[Duel]]
 
 ## Entrance
-
-[//]: # 'WIP'
 
 Entrance is a keyword that triggers an ability when a permanent enters the field.
 
 [[Abyssal Spirit]]
 
-In this case, when this minion enters the field, your opponent loses health based on the ammount of black minions you control, bringing them closer to death.
+In this case, when this minion enters the field, your opponent loses health based on the amount of black minions you control, bringing them closer to death.
 
 ## Exhaust
 
